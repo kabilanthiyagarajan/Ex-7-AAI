@@ -83,4 +83,4 @@ print(summary)
 Thus ,the program to perform the Text summarization is executed sucessfully.
 
 
-](https://github.com/Aadheeshwar-AIDS/Ex-6--AAI.git)
+
